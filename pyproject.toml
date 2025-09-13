@@ -7,6 +7,9 @@ requires-python = ">=3.11"
 dependencies = [
     "hid>=1.0.8",
     "hidapi>=0.14.0.post4",
+    "kivy>=2.3.1",
     "numpy>=2.3.3",
     "pynput>=1.8.1",
+    "pywin32>=311",
+    "pywinusb>=0.4.2",
 ]
